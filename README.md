@@ -1,6 +1,7 @@
 # Aprendizado por Projeto Integrado (API)
-
+<div align="center">
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+</div>
 
 # Índice
 
@@ -15,7 +16,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
+<div align="center">
 Montar a semana de cada turma que preencha a carga horaria de cada professor. Conforme altere a semana. Sem o risco de aulas duplicadas no mesmo dia de cada professor.
+</div>
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -29,10 +32,11 @@ Montar a semana de cada turma que preencha a carga horaria de cada professor. Co
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na visibilidade de aulas no decorrer da semana, visando:
-* atendendo a carga horaria de cada professor, adequadamente;
+* Atendendo a carga horaria de cada professor, adequadamente;
 * Evitar horarios duplicados;
 * Otimizar carga horaria do professor;
-* Facilitando reajustes.
+* Facilitando alterações no horário;
+* Não deixar os alunos com horários de aulas vagos;
 
 ## Tecnologias Utilizadas
 
@@ -41,14 +45,15 @@ Este projeto tem como objetivo ajudar e facilitar na visibilidade de aulas no de
   
  ### Tecnologias da Informação
 > GitHub
+> 
 > Excel
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 14/03/2024 | concluido| 
-|Sprint 01 | 14/03/2024 | concluido| 
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kick Off | 14/03/2024 | concluido|
+|Sprint 01 | 14/03/2024 | concluido|
 |Sprint 02 | 15/03/2024 | concluido|
 |Entrega|15/03/2024 | concluido |
 
@@ -67,16 +72,12 @@ Requisitos não funcionais
   
 # Backlog do produto
   
-<div align="center">
 - Analise da planilha diponibilizada.
 - Estruturar o trabalho utilizando metodologias ágil
 - Definição de formas e regras para completar o horário. 
 - Aplicação das regras no arquivo Excel. 
 - Criar documentação.  
  
-</div>
-
-
 ## Sprint 1. Concepção
 - [x] Analisar a planilha disponibilizada pela professora.
 - [x] Estruturar a forma de trabalho, utilizando a metodologia ágil.
@@ -99,7 +100,6 @@ Requisitos não funcionais
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
 
 
 
